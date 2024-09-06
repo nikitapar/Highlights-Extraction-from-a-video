@@ -50,4 +50,6 @@ https://www.analyticsvidhya.com/blog/2022/05/comparison-of-the-rms-energy-and-th
 
 https://khareanu1612.medium.com/audio-signal-processing-with-spectrograms-and-librosa-b66a0a6bc5cc
 
+https://www.altexsoft.com/blog/audio-analysis/
+
 
