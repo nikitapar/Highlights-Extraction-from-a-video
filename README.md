@@ -1,13 +1,13 @@
 
 # Efficient Highlights Extraction using Python
 
-Extraction of highlights from any of the sports using python & computer vision libraries.
+Extraction of highlights from any of the sports using Python & computer vision libraries.
 
 
 ## Introduction
 
 
-Professional editors typically spend a significant amount of time manually selecting and cropping interesting events from matches to extract highlights. This process can be quite time-consuming, especially when dealing with multiple matches. However, we have developed a Python-based model that can automatically extract highlights from a given video, providing an efficient solution. 
+Professional editors typically spend a significant amount of time manually selecting and cropping interesting events from matches to extract highlights. This process can be quite time-consuming, especially when dealing with multiple matches. However, we have developed a Python-based model that automatically extracts highlights from a given video, providing an efficient solution. 
 ## Idea behind project
 
 - Whenever something exciting happens during a game, the commentator's voice rises and the fans in the stadium start cheering. 
